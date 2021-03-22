@@ -1,18 +1,18 @@
 # This is me 😁
 ### Hi there 👋 I'm Thirumalesh
 * I'm a Flutter developer 🙌
-* Currently working as an intern at @FormulateAI ✌
+* Currently working as an intern at [@FormulateAI](https://github.com/FormulateAI) ✌
 * Curious about technologies 🤩
 * Creative ✨
 * Skills 💪
-* * Flutter
-* * Python
+ * Flutter
+ * Python
 * Currently learning 🤓
-* * MySQL
-* * Machine Learning
+ * MySQL
+ * Machine Learning
 
 Reach me here 💬
-* [GMail](thirumalesh.d1997@gmail.com)
+* thirumalesh.d1997@gmail.com(GMail)
 * [LinkedIn](https://www.linkedin.com/in/thirumalesh-damerla-6727021b5/)
 
 <!--
