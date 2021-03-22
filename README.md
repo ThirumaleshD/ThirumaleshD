@@ -5,11 +5,11 @@
 * Curious about technologies 🤩
 * Creative ✨
 * Skills 💪
- * Flutter
- * Python
+ - Flutter
+ - Python
 * Currently learning 🤓
- * MySQL
- * Machine Learning
+ - MySQL
+ - Machine Learning
 
 Reach me here 💬
 * thirumalesh.d1997@gmail.com(GMail)
